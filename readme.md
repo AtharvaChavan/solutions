@@ -2,7 +2,7 @@
 My solutions for problems from Exercism, Leetcode, Project Euler etc in a
 number of languages. Mostly an exercise in side-by-side comparison of languages,
 to increase my understanding of those I don't use day to day.
-
+Free
 | Language | Problems solved |
 | --- | --: |
 | C | 170 |
